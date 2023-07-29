@@ -63,7 +63,7 @@ export default function Home() {
           <h2>
             Your rights <span>-&gt;</span>
           </h2>
-          <p>No sensitive personal data is collected, but you may have the legal rights under the applicable data protection laws in relation to your data, and you can exercise these rights free of charge, by contacting us at hltv(@gmail.com).</p>
+          <p>No sensitive personal data is collected, but you may have the legal rights under the applicable data protection laws in relation to your data, and you can exercise these rights free of charge, by contacting us at HighLevelTechValley(@gmail.com).</p>
         </a>
 
         <a
