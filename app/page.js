@@ -18,7 +18,7 @@ export default function Home() {
               alt="HLTV Logo"
               className={styles.vercelLogo}
               width={100}
-              height={24}
+              height={100}
               priority
             />
           </a>
@@ -39,7 +39,7 @@ export default function Home() {
           <h2>
             Our commitment <span>-&gt;</span>
           </h2>
-          <p>When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.</p>
+          <p>When you use our services, you are trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.</p>
         </a>
 
         <a
@@ -63,7 +63,7 @@ export default function Home() {
           <h2>
             Your rights <span>-&gt;</span>
           </h2>
-          <p>No sensitive personal data is collected, but you may have the legal rights under the applicable data protection laws in relation to your data, and you can exercise these rights free of charge, by contacting us.</p>
+          <p>No sensitive personal data is collected, but you may have the legal rights under the applicable data protection laws in relation to your data, and you can exercise these rights free of charge, by contacting us at hltv(@gmail.com).</p>
         </a>
 
         <a
