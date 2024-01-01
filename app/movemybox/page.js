@@ -14,7 +14,7 @@ export default function MoveMyBox() {
           >
             By{' '}
             <Image
-              src="/movemybox.svg"
+              src="/movemybox_192x192.png"
               alt="Move My Box Logo"
               className={styles.vercelLogo}
               width={100}
@@ -51,7 +51,7 @@ export default function MoveMyBox() {
           <h2>
             We collect <span>-&gt;</span>
           </h2>
-          <p>We collect information about your devices, operating system, crash reports, system activity, the interaction of your apps, but no other information, which helps us provide you better service.</p>
+          <p>We collect information about your devices, operating system, crash reports, system activity, the interaction of your apps, but <b>no personal information</b> and no other information, which helps us provide you better service.</p>
         </a>
 
         <a

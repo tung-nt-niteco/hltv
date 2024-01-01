@@ -51,7 +51,7 @@ export default function Home() {
           <h2>
             We collect <span>-&gt;</span>
           </h2>
-          <p>We collect information about your username, devices, operating system, crash reports, system activity, the interaction of your apps, but no other information, which helps us provide you better service.</p>
+          <p>We collect information about your username, devices, operating system, crash reports, system activity, the interaction of your apps, but <b>no personal information</b> and no other information, which helps us provide you better service.</p>
         </a>
 
         <a
