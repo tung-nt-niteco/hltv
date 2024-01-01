@@ -5,7 +5,8 @@ export default function MoveMyBox() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1>Privacy Policy</h1>
+        <h1>Move My Box</h1>
+        <h2>Privacy Policy</h2>
         <div>
           <a
             href="#"
