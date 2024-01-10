@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import styles from './../page.module.css'
 
-export default function MoveMyBox() {
+export default function MoveMaster() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1>Move My Box</h1>
+        <h1>Move Master</h1>
         <h2>Privacy Policy</h2>
         <div>
           <a
@@ -16,7 +16,7 @@ export default function MoveMyBox() {
             By{' '}
             <Image
               src="/movemybox_192x192.png"
-              alt="Move My Box game"
+              alt="Move Master game"
               className={styles.vercelLogo}
               width={100}
               height={100}
