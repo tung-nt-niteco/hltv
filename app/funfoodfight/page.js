@@ -15,7 +15,7 @@ export default function FunFoodFight() {
           >
             By{' '}
             <Image
-              src="/hltv.png"
+              src="/hltv.svg"
               alt="Fun Food Fight game"
               className={styles.vercelLogo}
               width={100}
